@@ -1,0 +1,108 @@
+/* STYLE SECTIONING TAGS */
+body {
+  font-family: 'Times New Roman', Times, serif;
+  text-align:center;
+  margin: 0;
+  padding:0;
+  background-color:white;
+  align-items:center;
+}
+
+header{
+  width:100%;
+  padding-left:4%;
+  padding-right:4%;
+  box-sizing:border-box;
+  overflow: hidden;
+}
+
+.intro{
+  display:flex; 
+  align-items: center;
+  margin: 30px 0;
+  width:100%;
+}
+
+hr {
+  width: 90%;
+  background-color: black;
+  height: 3px;
+  margin-bottom: 3em;
+  margin-top: 2em;
+}
+
+.letter{
+  position: relative;
+  margin-left:30px;
+  margin-right:100px;
+}
+.letter h1{
+  margin-left:20px;
+  font-size:30px;
+  color:black;
+}
+.letter p{
+  font-size:14px;
+  font-weight:norma;;
+  color: black;
+}
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: black;
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+/* STYLE FLEX CONTAINER */
+.question {
+  display: inline-flex;
+}
+  
+/* STYLE FLEX ITEM */
+.answer-choice {
+  margin: 5px;
+  
+}
+
+/* STYLE IMAGES */
+.answer-choice img {
+  height: 10em;
+  border: 10px solid #E6BE8A ;
+}
+.hogwart{
+  position:relative; 
+  display:flex;
+  align-items:right;
+  margin-left:10%;
+}
+.hogwart hog{
+  width:100%;
+}
+
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+  font-family:'Times New Roman', Times, serif;
+  font-size:14px;
+  padding:5px;
+  font-weight:bold;
+  border-color: #E6BE8A ;
+}
+
+
+#resultButton{
+  margin-top: 50px;
+}
+
+#result{
+  margin-bottom:100px;
+}
+
+#restart{
+  margin-bottom:100px;
+}
