@@ -2,7 +2,7 @@
 Code to access a fun quiz which outputs the user's Harry Potter house based on their food preferences. Hang Pham developed this website with HTML/CSS/JavaScript while participating in the Girls Who Code Summer Immersion Program. A version of this code is also available on replit.
 
 ## Link to Website 
-Please click [here](https://activist-toolkit-starter-code--hangpham6.repl.co) to visit the website. Furthermore, click [here](https://hq.girlswhocode.com/project-gallery/7213) to view the replit file (directed through the Girls Who Code gallery).
+Please click [here](https://hang-phams-personality-quiz.hangpham6.repl.co) to visit the website. Furthermore, click [here](https://hq.girlswhocode.com/project-gallery/6151) to view the replit file (directed through the Girls Who Code gallery).
 
 ## Installation
 Use software and/or websites that can run HTML/CSS/JavaScript. All but the README.md files are required for the website to run successfully.
